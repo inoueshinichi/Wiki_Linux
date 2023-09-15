@@ -1,2 +1,5 @@
 # Wiki_Linux
-Linux Command
+Linux Command まとめ
+
+
+# 詳細はWikiに記載
